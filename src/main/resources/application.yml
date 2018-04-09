@@ -1,0 +1,8 @@
+feign:
+  okhttp:
+   enabled: true  
+  httpclient:
+   enabled: false         
+
+        
+  
